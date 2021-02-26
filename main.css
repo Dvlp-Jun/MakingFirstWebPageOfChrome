@@ -1,7 +1,22 @@
 #logo {
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    height: 100vh;
-    position: relative;
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    left: 50%;
+    height: 100px;
+    width: 272px;
+    margin-left: -136px;
+}
+
+#search {
+    position: absolute;
+    text-align: center;
+    border: solid 1px black;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    width: 272px;
+    
+    
+    margin-left: -136px;
 }
