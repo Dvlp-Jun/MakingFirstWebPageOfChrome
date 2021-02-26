@@ -19,6 +19,16 @@
     border: solid 1px grey;
       
 }
+#search_box{
+    position: absolute;
+   
+    
+    width: 340px;
+    height: 30px;
+    margin-left: 20px;
+    border: none;
+      
+}
 #quick{
     position: absolute;
     text-align: center;
@@ -33,4 +43,15 @@
 .fas{
     width: 10px;
     height: 10px;
+}
+
+.menu{
+    column-count: 4;
+    column-gap: 1em;
+    column-width: 272px;
+}
+#ico{
+    width: 50px;
+    height: 30px;
+    border-radius: 30/30;
 }
